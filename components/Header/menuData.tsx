@@ -22,13 +22,13 @@ const menuData: Menu[] = [
       {
         id: 42,
         title: "IT and Cybersecurity resources",
-        path: "/contact",
+        path: "/itCyberResource",
         newTab: false,
       },
       {
         id: 43,
         title: "virtual CISO",
-        path: "/blog",
+        path: "/virtualCISO",
         newTab: false,
       },
       {
@@ -52,7 +52,7 @@ const menuData: Menu[] = [
       {
         id: 47,
         title: "Cyber Insurance Compliance",
-        path: "/signup",
+        path: "/cyberInsuranceCompliance",
         newTab: false,
       },
       {
@@ -64,13 +64,7 @@ const menuData: Menu[] = [
       {
         id: 49,
         title: "Penetration Testing",
-        path: "/error",
-        newTab: false,
-      },
-      {
-        id: 50,
-        title: "Why Relate Central",
-        path: "/whyRelateCentral",
+        path: "/penetrationTesting",
         newTab: false,
       },
       {
@@ -79,6 +73,18 @@ const menuData: Menu[] = [
         path: "/cybersecurityAssessment",
         newTab: false,
       },
+      {
+        id: 52,
+        title: "FTC Safeguards Rule Compliance",
+        path: "/ftcSafeguardRuleComplicance",
+        newTab: false,
+      },
+      {
+        id: 50,
+        title: "Why Relate Central",
+        path: "/whyRelateCentral",
+        newTab: false,
+      }
     ],
   },
   {

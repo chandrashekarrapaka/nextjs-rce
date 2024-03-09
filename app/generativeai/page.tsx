@@ -1,534 +1,98 @@
 import Link from "next/link";
+import Image from "next/image";
 
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Error Page | Free Next.js Template for Startup and SaaS",
-  description: "This is Error Page for Startup Nextjs Template",
+  title: "Generative AI Services",
+  description: "",
   // other metadata
 };
 
 const GenerativeAi = () => {
   return (
     <>
-      <section className="relative z-10 pb-16 pt-36 md:pb-20 lg:pb-28 lg:pt-[180px]">
+      <section className="pb-[120px] pt-[150px]">
         <div className="container">
-          <div className="flex flex-wrap -mx-4">
-            <div className="w-full px-4">
-              <div className="mx-auto max-w-[530px] text-center">
-                <div className="mx-auto text-center mb-9">
-                  <svg
-                    className="w-full mx-auto text-center"
-                    height="210"
-                    viewBox="0 0 474 210"
-                    fill="none"
-                    xmlns="http://www.w3.org/2000/svg"
-                  >
-                    <path
-                      opacity="0.5"
-                      d="M25 163.051H101.211V191H133.308V163.051H153V136.111H133.308V32H91.2871L25 136.577V163.051ZM101.831 136.111H58.8025V134.869L100.591 68.6445H101.831V136.111Z"
-                      stroke="url(#paint0_linear_116:1137)"
-                      strokeWidth="3"
-                    />
-                    <path
-                      opacity="0.5"
-                      d="M307 133.051H383.211V161H415.308V133.051H435V106.111H415.308V2H373.287L307 106.577V133.051ZM383.831 106.111H340.803V104.869L382.591 38.6445H383.831V106.111Z"
-                      stroke="url(#paint1_linear_116:1137)"
-                      strokeWidth="3"
-                    />
-                    <circle
-                      opacity="0.8"
-                      cx="227.5"
-                      cy="81.5"
-                      r="68.5"
-                      fill="#4A6CF7"
-                    />
-                    <mask
-                      id="mask0_116:1137"
-                      style={{ maskType: "alpha" }}
-                      maskUnits="userSpaceOnUse"
-                      x="159"
-                      y="13"
-                      width="137"
-                      height="137"
-                    >
-                      <circle
-                        opacity="0.8"
-                        cx="227.5"
-                        cy="81.5"
-                        r="68.5"
-                        fill="#4A6CF7"
-                      />
-                    </mask>
-                    <g mask="url(#mask0_116:1137)">
-                      <circle
-                        opacity="0.8"
-                        cx="227.5"
-                        cy="81.5"
-                        r="68.5"
-                        fill="url(#paint2_radial_116:1137)"
-                      />
-                      <g opacity="0.8" filter="url(#filter0_f_116:1137)">
-                        <circle
-                          cx="233.543"
-                          cy="49.2645"
-                          r="28.2059"
-                          fill="white"
-                        />
-                      </g>
-                    </g>
-                    <path
-                      d="M0 182H83.5V209H150.5V178H169.5V148.5C169.5 148.5 194 165 229.5 165C265 165 294 134.5 294 134.5V152H306.5H361V178H435V152H474"
-                      stroke="white"
-                      strokeOpacity="0.08"
-                      strokeWidth="2"
-                    />
-                    <defs>
-                      <filter
-                        id="filter0_f_116:1137"
-                        x="175.337"
-                        y="-8.94141"
-                        width="116.412"
-                        height="116.412"
-                        filterUnits="userSpaceOnUse"
-                        colorInterpolationFilters="sRGB"
-                      >
-                        <feFlood floodOpacity="0" result="BackgroundImageFix" />
-                        <feBlend
-                          mode="normal"
-                          in="SourceGraphic"
-                          in2="BackgroundImageFix"
-                          result="shape"
-                        />
-                        <feGaussianBlur
-                          stdDeviation="15"
-                          result="effect1_foregroundBlur_116:1137"
-                        />
-                      </filter>
-                      <linearGradient
-                        id="paint0_linear_116:1137"
-                        x1="25"
-                        y1="183"
-                        x2="126.155"
-                        y2="27.0837"
-                        gradientUnits="userSpaceOnUse"
-                      >
-                        <stop stopColor="#4A6CF7" stopOpacity="0" />
-                        <stop offset="1" stopColor="#4A6CF7" />
-                      </linearGradient>
-                      <linearGradient
-                        id="paint1_linear_116:1137"
-                        x1="307"
-                        y1="153"
-                        x2="408.155"
-                        y2="-2.91631"
-                        gradientUnits="userSpaceOnUse"
-                      >
-                        <stop stopColor="#4A6CF7" stopOpacity="0" />
-                        <stop offset="1" stopColor="#4A6CF7" />
-                      </linearGradient>
-                      <radialGradient
-                        id="paint2_radial_116:1137"
-                        cx="0"
-                        cy="0"
-                        r="1"
-                        gradientUnits="userSpaceOnUse"
-                        gradientTransform="translate(227.5 81.5) rotate(90) scale(73.5368)"
-                      >
-                        <stop stopOpacity="0.47" />
-                        <stop offset="1" stopOpacity="0" />
-                      </radialGradient>
-                    </defs>
-                  </svg>
-                </div>
-                <h3 className="mb-4 text-3xl font-bold text-black dark:text-white sm:text-4xl">
-                  Sorry, the page can’t be found
-                </h3>
-                <p className="mb-10 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  The page you were looking for appears to have been moved,
-                  deleted or does not exist.
+          <div className="-mx-4 flex flex-wrap justify-center">
+            <div className="w-full px-4 lg:w-8/12">
+              <div>
+                <h2 className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight">
+                Support for FTC Safeguards Rule Compliance
+                </h2>
+                <div className="mb-10 flex flex-wrap items-center justify-between border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
+                <p className="mb-10 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
+                
+                Relate Central is at the forefront of innovation in the field of cybersecurity, offering cutting-edge Generative AI services to help businesses stay ahead of evolving cyber threats. 
                 </p>
-                <Link
-                  href="/"
-                  className="px-8 py-3 text-base font-bold text-white duration-300 rounded-md bg-primary shadow-signUp hover:bg-white hover:text-primary md:px-9 lg:px-8 xl:px-9"
-                >
-                  Back to Homepage
-                </Link>
+
+                </div>
+                <div>
+                  
+                  <div className="mb-10 w-full overflow-hidden rounded">
+                    <div className="relative aspect-[97/60] w-full sm:aspect-[97/44] ">
+                      <Image
+                        src="/images/blog/blog-details-13.jpg"
+                        alt="image"
+                        layout="fill"
+                      // className="object-cover object-center"
+                      />
+                    </div>
+                  </div>
+                  <p className="mb-10 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
+                  Our advanced AI technologies leverage machine learning algorithms and deep neural networks to generate synthetic data, simulate cyber attacks, and develop robust defense strategies. 
+                  <br/>
+                  <br/>
+
+                  <p>
+                  With our expertise, experience, and commitment to excellence, we empower businesses to enhance their cybersecurity posture, identify vulnerabilities, and protect their digital assets with confidence.
+                  </p>
+                  
+                  </p>
+                  <br />
+
+                  <h3 className="font-xl mb-10 font-bold leading-tight text-black dark:text-white sm:text-2xl sm:leading-tight lg:text-xl lg:leading-tight xl:text-2xl xl:leading-tight">
+                  Why Choose Relate Central for Your Generative AI Needs?
+                  </h3>
+                  <p className="mb-10 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
+                  <p>
+                  1.	State-of-the-Art AI Technology: At Relate Central, we harness the power of state-of-the-art AI technology to deliver innovative solutions that address the complex challenges of cybersecurity. Our Generative AI services leverage advanced machine learning algorithms and deep neural networks to generate realistic synthetic data, simulate cyber attacks, and model adversarial behavior. By harnessing the power of AI, we provide businesses with valuable insights and predictive analytics to strengthen their defenses and mitigate risks.
+                  </p>
+                    <br/>
+                    <p>
+                    2.	Customized AI Solutions: We understand that every organization has unique cybersecurity requirements and objectives. That's why we offer customized Generative AI solutions tailored to your specific needs and goals. Whether you're looking to augment your threat intelligence capabilities, enhance your penetration testing efforts, or improve your incident response procedures, we work closely with you to develop a tailored AI strategy that aligns with your business objectives and budget. Our flexible approach ensures that you get the most value out of your AI investment and achieve tangible results.
+                    </p>
+                    <br/>
+                    <p>
+                    3.	Enhanced Threat Detection and Response: With cyber threats becoming increasingly sophisticated and pervasive, traditional security solutions are no longer sufficient. Our Generative AI services enable businesses to enhance their threat detection and response capabilities by generating realistic attack scenarios and simulating cyber attacks in a controlled environment. By proactively identifying vulnerabilities and weaknesses in your defenses, we help you develop effective mitigation strategies and improve your overall security posture.
+                     </p>
+                    <br/>
+                    <p>
+                    4.	Cost-Effective Security Solutions: Investing in advanced AI technology can be costly and resource-intensive. At Relate Central, we offer cost-effective Generative AI services that deliver maximum value without breaking the bank. Our flexible pricing models and scalable service options allow you to access cutting-edge AI technology at a fraction of the cost of developing and maintaining an in-house AI infrastructure. With our affordable AI solutions, you can leverage the power of AI to enhance your cybersecurity defenses and protect your business without draining your resources.
+                    </p>
+                    <br/>
+                    <p>
+                    5.	Expert Guidance and Support: Our team of AI experts and cybersecurity professionals is dedicated to providing you with expert guidance and support every step of the way. From initial consultation and solution design to implementation, training, and ongoing support, we are committed to helping you achieve success with your Generative AI initiatives. Whether you have questions about AI technology, need assistance with implementation, or require troubleshooting support, we're here to help. With Relate Central as your partner, you can trust that you're in capable hands.
+                    </p>
+                    <br/>
+                    
+                    
+                    </p>
+                 <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:p-8 xl:p-9">
+                    <p className="text-center text-base font-medium italic text-body-color">
+                    Choose Relate Central as your partner for Generative AI services and take proactive steps to strengthen your cybersecurity defenses, mitigate risks, and protect your business from evolving cyber threats. Contact us today to learn more about how our Generative AI services can help you achieve your cybersecurity goals with confidence.
+                     </p>
+
+                  </div>
+
+                  <div className="items-center justify-between sm:flex">
+
+
+                  </div>
+                </div>
               </div>
             </div>
           </div>
-        </div>
-        <div className="absolute bottom-0 left-0 z-[-1] hidden sm:block">
-          <svg
-            width="406"
-            height="286"
-            viewBox="0 0 406 286"
-            fill="none"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <g opacity="0.5">
-              <rect
-                opacity="0.5"
-                x="56.25"
-                y="110.344"
-                width="116.719"
-                height="116.438"
-                stroke="url(#paint0_linear_116:1140)"
-              />
-              <rect
-                opacity="0.1"
-                x="56.25"
-                y="110.344"
-                width="116.719"
-                height="116.438"
-                fill="url(#paint1_linear_116:1140)"
-              />
-              <path
-                opacity="0.5"
-                d="M172.688 110.344L229.219 51V167.601L172.688 226.781V110.344Z"
-                stroke="url(#paint2_linear_116:1140)"
-              />
-              <path
-                opacity="0.1"
-                d="M172.688 110.344L229.219 51V167.601L172.688 226.781V110.344Z"
-                fill="url(#paint3_linear_116:1140)"
-              />
-              <path
-                opacity="0.5"
-                d="M0 169.619L56.25 110.344V226.85L0 286.125V169.619Z"
-                stroke="url(#paint4_linear_116:1140)"
-              />
-              <path
-                opacity="0.1"
-                d="M0 169.619L56.25 110.344V226.85L0 286.125V169.619Z"
-                fill="url(#paint5_linear_116:1140)"
-              />
-              <rect
-                opacity="0.5"
-                x="228.938"
-                y="51.2812"
-                width="119.25"
-                height="116.438"
-                stroke="url(#paint6_linear_116:1140)"
-              />
-              <rect
-                opacity="0.1"
-                x="228.938"
-                y="51.2812"
-                width="119.25"
-                height="116.438"
-                fill="url(#paint7_linear_116:1140)"
-              />
-              <path
-                opacity="0.5"
-                d="M347.906 51.2812L405 2V110.113L347.906 167.719V51.2812Z"
-                stroke="url(#paint8_linear_116:1140)"
-              />
-              <path
-                opacity="0.1"
-                d="M347.906 51.2812L405 2V110.113L347.906 167.719V51.2812Z"
-                fill="url(#paint9_linear_116:1140)"
-              />
-            </g>
-            <defs>
-              <linearGradient
-                id="paint0_linear_116:1140"
-                x1="49.0781"
-                y1="112.313"
-                x2="148.922"
-                y2="131.859"
-                gradientUnits="userSpaceOnUse"
-              >
-                <stop stopColor="#4A6CF7" stopOpacity="0" />
-                <stop offset="1" stopColor="#4A6CF7" />
-              </linearGradient>
-              <linearGradient
-                id="paint1_linear_116:1140"
-                x1="179.141"
-                y1="209.062"
-                x2="32.6026"
-                y2="145.47"
-                gradientUnits="userSpaceOnUse"
-              >
-                <stop stopColor="#4A6CF7" />
-                <stop offset="1" stopColor="#4A6CF7" stopOpacity="0" />
-              </linearGradient>
-              <linearGradient
-                id="paint2_linear_116:1140"
-                x1="170.016"
-                y1="125.25"
-                x2="217.542"
-                y2="125.507"
-                gradientUnits="userSpaceOnUse"
-              >
-                <stop stopColor="#4A6CF7" stopOpacity="0" />
-                <stop offset="1" stopColor="#4A6CF7" />
-              </linearGradient>
-              <linearGradient
-                id="paint3_linear_116:1140"
-                x1="233.578"
-                y1="113.156"
-                x2="146.509"
-                y2="143.95"
-                gradientUnits="userSpaceOnUse"
-              >
-                <stop stopColor="#4A6CF7" />
-                <stop offset="1" stopColor="#4A6CF7" stopOpacity="0" />
-              </linearGradient>
-              <linearGradient
-                id="paint4_linear_116:1140"
-                x1="-3.45633"
-                y1="113.316"
-                x2="46.311"
-                y2="116.426"
-                gradientUnits="userSpaceOnUse"
-              >
-                <stop stopColor="#4A6CF7" stopOpacity="0" />
-                <stop offset="1" stopColor="#4A6CF7" />
-              </linearGradient>
-              <linearGradient
-                id="paint5_linear_116:1140"
-                x1="69.8907"
-                y1="189.234"
-                x2="84.0124"
-                y2="249.947"
-                gradientUnits="userSpaceOnUse"
-              >
-                <stop stopColor="#4A6CF7" />
-                <stop offset="1" stopColor="#4A6CF7" stopOpacity="0" />
-              </linearGradient>
-              <linearGradient
-                id="paint6_linear_116:1140"
-                x1="218.953"
-                y1="157.453"
-                x2="330.261"
-                y2="148.369"
-                gradientUnits="userSpaceOnUse"
-              >
-                <stop stopColor="#4A6CF7" stopOpacity="0" />
-                <stop offset="1" stopColor="#4A6CF7" />
-              </linearGradient>
-              <linearGradient
-                id="paint7_linear_116:1140"
-                x1="348.187"
-                y1="46.6406"
-                x2="280.112"
-                y2="168.552"
-                gradientUnits="userSpaceOnUse"
-              >
-                <stop stopColor="#4A6CF7" />
-                <stop offset="1" stopColor="#4A6CF7" stopOpacity="0" />
-              </linearGradient>
-              <linearGradient
-                id="paint8_linear_116:1140"
-                x1="329"
-                y1="190"
-                x2="369.525"
-                y2="-29.8829"
-                gradientUnits="userSpaceOnUse"
-              >
-                <stop stopColor="#4A6CF7" stopOpacity="0" />
-                <stop offset="1" stopColor="#4A6CF7" />
-              </linearGradient>
-              <linearGradient
-                id="paint9_linear_116:1140"
-                x1="409"
-                y1="10"
-                x2="331.729"
-                y2="34.2741"
-                gradientUnits="userSpaceOnUse"
-              >
-                <stop stopColor="#4A6CF7" />
-                <stop offset="1" stopColor="#4A6CF7" stopOpacity="0" />
-              </linearGradient>
-            </defs>
-          </svg>
-        </div>
-        <div className="absolute right-0 top-0 z-[-1] hidden sm:block">
-          <svg
-            width="406"
-            height="286"
-            viewBox="0 0 406 286"
-            fill="none"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <g opacity="0.5">
-              <rect
-                opacity="0.5"
-                x="57.25"
-                y="108.344"
-                width="116.719"
-                height="116.438"
-                stroke="url(#paint0_linear_116:1151)"
-              />
-              <rect
-                opacity="0.1"
-                x="57.25"
-                y="108.344"
-                width="116.719"
-                height="116.438"
-                fill="url(#paint1_linear_116:1151)"
-              />
-              <path
-                opacity="0.5"
-                d="M173.688 108.344L230.219 49V165.601L173.688 224.781V108.344Z"
-                stroke="url(#paint2_linear_116:1151)"
-              />
-              <path
-                opacity="0.1"
-                d="M173.688 108.344L230.219 49V165.601L173.688 224.781V108.344Z"
-                fill="url(#paint3_linear_116:1151)"
-              />
-              <path
-                opacity="0.5"
-                d="M1 167.619L57.25 108.344V224.85L1 284.125V167.619Z"
-                stroke="url(#paint4_linear_116:1151)"
-              />
-              <path
-                opacity="0.1"
-                d="M1 167.619L57.25 108.344V224.85L1 284.125V167.619Z"
-                fill="url(#paint5_linear_116:1151)"
-              />
-              <rect
-                opacity="0.5"
-                x="229.938"
-                y="49.2812"
-                width="119.25"
-                height="116.438"
-                stroke="url(#paint6_linear_116:1151)"
-              />
-              <rect
-                opacity="0.1"
-                x="229.938"
-                y="49.2812"
-                width="119.25"
-                height="116.438"
-                fill="url(#paint7_linear_116:1151)"
-              />
-              <path
-                opacity="0.5"
-                d="M348.906 49.2812L406 0V108.113L348.906 165.719V49.2812Z"
-                stroke="url(#paint8_linear_116:1151)"
-              />
-              <path
-                opacity="0.1"
-                d="M348.906 49.2812L406 0V108.113L348.906 165.719V49.2812Z"
-                fill="url(#paint9_linear_116:1151)"
-              />
-            </g>
-            <defs>
-              <linearGradient
-                id="paint0_linear_116:1151"
-                x1="50.0781"
-                y1="110.313"
-                x2="149.922"
-                y2="129.859"
-                gradientUnits="userSpaceOnUse"
-              >
-                <stop stopColor="#4A6CF7" stopOpacity="0" />
-                <stop offset="1" stopColor="#4A6CF7" />
-              </linearGradient>
-              <linearGradient
-                id="paint1_linear_116:1151"
-                x1="180.141"
-                y1="207.062"
-                x2="33.6026"
-                y2="143.47"
-                gradientUnits="userSpaceOnUse"
-              >
-                <stop stopColor="#4A6CF7" />
-                <stop offset="1" stopColor="#4A6CF7" stopOpacity="0" />
-              </linearGradient>
-              <linearGradient
-                id="paint2_linear_116:1151"
-                x1="171.016"
-                y1="123.25"
-                x2="218.542"
-                y2="123.507"
-                gradientUnits="userSpaceOnUse"
-              >
-                <stop stopColor="#4A6CF7" stopOpacity="0" />
-                <stop offset="1" stopColor="#4A6CF7" />
-              </linearGradient>
-              <linearGradient
-                id="paint3_linear_116:1151"
-                x1="234.578"
-                y1="111.156"
-                x2="147.509"
-                y2="141.95"
-                gradientUnits="userSpaceOnUse"
-              >
-                <stop stopColor="#4A6CF7" />
-                <stop offset="1" stopColor="#4A6CF7" stopOpacity="0" />
-              </linearGradient>
-              <linearGradient
-                id="paint4_linear_116:1151"
-                x1="85.5"
-                y1="71.5"
-                x2="100.174"
-                y2="270.716"
-                gradientUnits="userSpaceOnUse"
-              >
-                <stop stopColor="#4A6CF7" stopOpacity="0" />
-                <stop offset="1" stopColor="#4A6CF7" />
-              </linearGradient>
-              <linearGradient
-                id="paint5_linear_116:1151"
-                x1="70.8907"
-                y1="187.234"
-                x2="85.0124"
-                y2="247.947"
-                gradientUnits="userSpaceOnUse"
-              >
-                <stop stopColor="#4A6CF7" />
-                <stop offset="1" stopColor="#4A6CF7" stopOpacity="0" />
-              </linearGradient>
-              <linearGradient
-                id="paint6_linear_116:1151"
-                x1="219.953"
-                y1="155.453"
-                x2="331.261"
-                y2="146.369"
-                gradientUnits="userSpaceOnUse"
-              >
-                <stop stopColor="#4A6CF7" stopOpacity="0" />
-                <stop offset="1" stopColor="#4A6CF7" />
-              </linearGradient>
-              <linearGradient
-                id="paint7_linear_116:1151"
-                x1="349.187"
-                y1="44.6406"
-                x2="281.112"
-                y2="166.552"
-                gradientUnits="userSpaceOnUse"
-              >
-                <stop stopColor="#4A6CF7" />
-                <stop offset="1" stopColor="#4A6CF7" stopOpacity="0" />
-              </linearGradient>
-              <linearGradient
-                id="paint8_linear_116:1151"
-                x1="394.75"
-                y1="64.3284"
-                x2="409.531"
-                y2="110.901"
-                gradientUnits="userSpaceOnUse"
-              >
-                <stop stopColor="#4A6CF7" stopOpacity="0" />
-                <stop offset="1" stopColor="#4A6CF7" />
-              </linearGradient>
-              <linearGradient
-                id="paint9_linear_116:1151"
-                x1="410"
-                y1="8.00001"
-                x2="332.729"
-                y2="32.2741"
-                gradientUnits="userSpaceOnUse"
-              >
-                <stop stopColor="#4A6CF7" />
-                <stop offset="1" stopColor="#4A6CF7" stopOpacity="0" />
-              </linearGradient>
-            </defs>
-          </svg>
         </div>
       </section>
     </>
