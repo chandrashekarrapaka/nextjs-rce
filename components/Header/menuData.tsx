@@ -16,7 +16,7 @@ const menuData: Menu[] = [
       {
         id: 41,
         title: "Secure Software Development",
-        path: "/about",
+        path: "/secureSoftwareDevelopment",
         newTab: false,
       },
       {
@@ -40,7 +40,7 @@ const menuData: Menu[] = [
       {
         id: 45,
         title: "Cybersecurity Automation",
-        path: "/blog-details",
+        path: "/cybersecurityAutomation",
         newTab: false,
       },
       {
@@ -58,7 +58,7 @@ const menuData: Menu[] = [
       {
         id: 48,
         title: "Generative AI",
-        path: "/error",
+        path: "/generativeai",
         newTab: false,
       },
       {
@@ -70,7 +70,13 @@ const menuData: Menu[] = [
       {
         id: 50,
         title: "Why Relate Central",
-        path: "/",
+        path: "/whyRelateCentral",
+        newTab: false,
+      },
+      {
+        id: 51,
+        title: "Cybersecurity Assessment",
+        path: "/cybersecurityAssessment",
         newTab: false,
       },
     ],
