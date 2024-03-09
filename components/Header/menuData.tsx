@@ -99,18 +99,18 @@ const menuData: Menu[] = [
         path: "/contact",
         newTab: false,
       },
-      {
-        id: 52,
-        title: "Careers",
-        path: "/contact",
-        newTab: false,
-      },
-      {
-        id: 53,
-        title: "Blog",
-        path: "/blog",
-        newTab: false,
-      },
+      // {
+      //   id: 52,
+      //   title: "Careers",
+      //   path: "/contact",
+      //   newTab: false,
+      // },
+      // {
+      //   id: 53,
+      //   title: "Blog",
+      //   path: "/blog",
+      //   newTab: false,
+      // },
      
     ],
   },

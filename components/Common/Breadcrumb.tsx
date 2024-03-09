@@ -18,8 +18,15 @@ const Breadcrumb = ({
                   {pageName}
                 </h1>
                 <p className="text-base font-medium leading-relaxed text-body-color">
-                  {description}
+                <p className="mb-10 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
+                
+                <div className="contact__body">
+                        <h6 className="title">Email Us: <a href="mailto:info@relatecentral.com">info@relatecentral.com</a></h6>
+                      </div>
+                  </p>
+                 
                 </p>
+                
               </div>
             </div>
             <div className="w-full px-4 md:w-4/12 lg:w-5/12">
