@@ -60,7 +60,7 @@ const GenerativeAi = () => {
                   </p>
                     <br/>
                     <p>
-                    2.	Customized AI Solutions: We understand that every organization has unique cybersecurity requirements and objectives. That's why we offer customized Generative AI solutions tailored to your specific needs and goals. Whether you're looking to augment your threat intelligence capabilities, enhance your penetration testing efforts, or improve your incident response procedures, we work closely with you to develop a tailored AI strategy that aligns with your business objectives and budget. Our flexible approach ensures that you get the most value out of your AI investment and achieve tangible results.
+                    2.	Customized AI Solutions: We understand that every organization has unique cybersecurity requirements and objectives. That`s why we offer customized Generative AI solutions tailored to your specific needs and goals. Whether you`re looking to augment your threat intelligence capabilities, enhance your penetration testing efforts, or improve your incident response procedures, we work closely with you to develop a tailored AI strategy that aligns with your business objectives and budget. Our flexible approach ensures that you get the most value out of your AI investment and achieve tangible results.
                     </p>
                     <br/>
                     <p>
@@ -72,7 +72,7 @@ const GenerativeAi = () => {
                     </p>
                     <br/>
                     <p>
-                    5.	Expert Guidance and Support: Our team of AI experts and cybersecurity professionals is dedicated to providing you with expert guidance and support every step of the way. From initial consultation and solution design to implementation, training, and ongoing support, we are committed to helping you achieve success with your Generative AI initiatives. Whether you have questions about AI technology, need assistance with implementation, or require troubleshooting support, we're here to help. With Relate Central as your partner, you can trust that you're in capable hands.
+                    5.	Expert Guidance and Support: Our team of AI experts and cybersecurity professionals is dedicated to providing you with expert guidance and support every step of the way. From initial consultation and solution design to implementation, training, and ongoing support, we are committed to helping you achieve success with your Generative AI initiatives. Whether you have questions about AI technology, need assistance with implementation, or require troubleshooting support, we`re here to help. With Relate Central as your partner, you can trust that you`re in capable hands.
                     </p>
                     <br/>
                     

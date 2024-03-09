@@ -40,7 +40,7 @@ const CyberInsuranceCompliance = () => {
                     </div>
                   </div>
                   <p className="mb-10 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                  As cyber threats continue to evolve, cyber insurance has become an essential component of an organization's risk management strategy. Our services are designed to help businesses navigate the complexities of cyber insurance requirements, assess their cybersecurity posture, and ensure compliance with policy requirements. 
+                  As cyber threats continue to evolve, cyber insurance has become an essential component of an organization`s risk management strategy. Our services are designed to help businesses navigate the complexities of cyber insurance requirements, assess their cybersecurity posture, and ensure compliance with policy requirements. 
                   <br/>
                   <br/>
 
@@ -60,11 +60,11 @@ const CyberInsuranceCompliance = () => {
                   </p>
                     <br/>
                     <p>
-                    2.	Comprehensive Cybersecurity Assessments: Our Cyber Insurance Compliance services begin with a comprehensive assessment of your organization's cybersecurity posture. We evaluate your security controls, policies, and procedures to identify vulnerabilities, gaps, and areas of non-compliance with cyber insurance requirements. Our thorough assessments provide you with actionable insights and recommendations to strengthen your security posture and mitigate risks, ensuring that you meet the requirements of your cyber insurance policy.
+                    2.	Comprehensive Cybersecurity Assessments: Our Cyber Insurance Compliance services begin with a comprehensive assessment of your organization`s cybersecurity posture. We evaluate your security controls, policies, and procedures to identify vulnerabilities, gaps, and areas of non-compliance with cyber insurance requirements. Our thorough assessments provide you with actionable insights and recommendations to strengthen your security posture and mitigate risks, ensuring that you meet the requirements of your cyber insurance policy.
                     </p>
                     <br/>
                     <p>
-                    3.	Tailored Compliance Solutions: We understand that every organization has unique cybersecurity needs and challenges. That's why we offer tailored Cyber Insurance Compliance solutions that are customized to your specific requirements and objectives. Whether you're a small business or a large enterprise, we work closely with you to develop a compliance strategy that aligns with your business goals, budget, and risk tolerance. Our flexible approach ensures that you get the support and guidance you need to achieve and maintain compliance with confidence.
+                    3.	Tailored Compliance Solutions: We understand that every organization has unique cybersecurity needs and challenges. That`s why we offer tailored Cyber Insurance Compliance solutions that are customized to your specific requirements and objectives. Whether you`re a small business or a large enterprise, we work closely with you to develop a compliance strategy that aligns with your business goals, budget, and risk tolerance. Our flexible approach ensures that you get the support and guidance you need to achieve and maintain compliance with confidence.
                     </p>
                     <br/>
                     <p>
@@ -72,7 +72,7 @@ const CyberInsuranceCompliance = () => {
                     </p>
                     <br/>
                     <p>
-                    5.	Risk Mitigation and Loss Prevention: While cyber insurance provides financial protection against cyber risks, the best defense is prevention. Our Cyber Insurance Compliance services help you proactively mitigate risks and prevent cyber incidents from occurring in the first place. By identifying vulnerabilities, strengthening security controls, and implementing best practices, we help you reduce the likelihood and severity of cyber incidents, minimizing the need for insurance claims and preserving your organization's reputation and financial stability.
+                    5.	Risk Mitigation and Loss Prevention: While cyber insurance provides financial protection against cyber risks, the best defense is prevention. Our Cyber Insurance Compliance services help you proactively mitigate risks and prevent cyber incidents from occurring in the first place. By identifying vulnerabilities, strengthening security controls, and implementing best practices, we help you reduce the likelihood and severity of cyber incidents, minimizing the need for insurance claims and preserving your organization`s reputation and financial stability.
                     </p>
                     <br/>
                     

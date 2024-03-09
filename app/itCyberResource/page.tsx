@@ -22,7 +22,7 @@ const ItCyberResource = () => {
                  </h2>
                 <div className="mb-10 flex flex-wrap items-center justify-between border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
                 <p className="mb-10 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                Relate Central is your trusted partner for accessing top-tier IT and cybersecurity talent to meet your organization's needs. 
+                Relate Central is your trusted partner for accessing top-tier IT and cybersecurity talent to meet your organization`s needs. 
                 </p>
 
                 </div>
@@ -59,7 +59,7 @@ const ItCyberResource = () => {
                   </p>
                     <br/>
                     <p>
-                    2.	Customized Talent Solutions: We understand that every organization has unique talent needs and priorities. That's why we offer customized talent solutions tailored to your specific requirements and objectives. Whether you need short-term contractors to fill temporary gaps in your workforce or permanent hires to support long-term initiatives, we work closely with you to understand your needs and provide talent solutions that align with your business goals, culture, and budget. Our flexible approach ensures that you get the right talent, at the right time, and in the right capacity to drive success.
+                    2.	Customized Talent Solutions: We understand that every organization has unique talent needs and priorities. That`s why we offer customized talent solutions tailored to your specific requirements and objectives. Whether you need short-term contractors to fill temporary gaps in your workforce or permanent hires to support long-term initiatives, we work closely with you to understand your needs and provide talent solutions that align with your business goals, culture, and budget. Our flexible approach ensures that you get the right talent, at the right time, and in the right capacity to drive success.
                      </p>
                     <br/>
                     <p>
@@ -71,7 +71,7 @@ const ItCyberResource = () => {
                     </p>
                     <br/>
                     <p>
-                    5.	Long-Term Partnership Approach: At Relate Central, we believe in building long-term partnerships with our clients based on trust, transparency, and mutual success. We strive to understand your business objectives, culture, and talent requirements to provide personalized solutions that drive value and impact. Whether you need to scale your cybersecurity team, fill critical IT positions, or access specialized expertise for a specific project, we're here to support you every step of the way. With Relate Central as your talent partner, you can trust that you're working with a reliable partner committed to helping you achieve your business goals.
+                    5.	Long-Term Partnership Approach: At Relate Central, we believe in building long-term partnerships with our clients based on trust, transparency, and mutual success. We strive to understand your business objectives, culture, and talent requirements to provide personalized solutions that drive value and impact. Whether you need to scale your cybersecurity team, fill critical IT positions, or access specialized expertise for a specific project, we`re here to support you every step of the way. With Relate Central as your talent partner, you can trust that you`re working with a reliable partner committed to helping you achieve your business goals.
                     </p>
                     <br/>
                     

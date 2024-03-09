@@ -23,7 +23,7 @@ const ThirdPartyRiskManagement = () => {
                 <div className="mb-10 flex flex-wrap items-center justify-between border-b border-body-color border-opacity-10 pb-4 dark:border-white dark:border-opacity-10">
                 <p className="mb-10 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
                 
-                At Relate Central, we recognize the critical importance of managing third-party risks in today's interconnected business landscape.
+                At Relate Central, we recognize the critical importance of managing third-party risks in today`s interconnected business landscape.
                 </p>
 
                 </div>
@@ -60,7 +60,7 @@ const ThirdPartyRiskManagement = () => {
                    </p>
                     <br/>
                     <p>
-                    2.	Customized Risk Management Solutions: We understand that every organization has unique risk management requirements and priorities. That's why we offer customized Third-Party Risk Management solutions tailored to your specific needs and objectives. Whether you're a small business or a multinational corporation, we work closely with you to develop a risk management strategy that aligns with your business goals, industry regulations, and risk tolerance. Our flexible approach ensures that you get the support and guidance you need to effectively manage third-party risks while optimizing business performance.
+                    2.	Customized Risk Management Solutions: We understand that every organization has unique risk management requirements and priorities. That`s why we offer customized Third-Party Risk Management solutions tailored to your specific needs and objectives. Whether you`re a small business or a multinational corporation, we work closely with you to develop a risk management strategy that aligns with your business goals, industry regulations, and risk tolerance. Our flexible approach ensures that you get the support and guidance you need to effectively manage third-party risks while optimizing business performance.
                     </p>
                     <br/>
                     <p>
@@ -68,11 +68,11 @@ const ThirdPartyRiskManagement = () => {
                     </p>
                     <br/>
                     <p>
-                    4.	Enhanced Vendor Relationships and Trust: Building strong relationships with your vendors is essential for business success, but it's equally important to ensure that those relationships are built on trust and accountability. Our Third-Party Risk Management services help you establish clear expectations and standards for security and compliance with your vendors, fostering transparency, collaboration, and trust. By promoting a culture of security and accountability throughout your vendor ecosystem, you can minimize the risk of data breaches, supply chain disruptions, and reputational damage.
+                    4.	Enhanced Vendor Relationships and Trust: Building strong relationships with your vendors is essential for business success, but it`s equally important to ensure that those relationships are built on trust and accountability. Our Third-Party Risk Management services help you establish clear expectations and standards for security and compliance with your vendors, fostering transparency, collaboration, and trust. By promoting a culture of security and accountability throughout your vendor ecosystem, you can minimize the risk of data breaches, supply chain disruptions, and reputational damage.
                     </p>
                     <br/>
                     <p>
-                    5.	Regulatory Compliance and Due Diligence: In today's regulatory environment, compliance with data protection and privacy regulations is non-negotiable. Our Third-Party Risk Management services help you navigate the complex landscape of regulatory requirements and due diligence processes, ensuring that your vendors meet the necessary security and compliance standards. Whether you need to comply with GDPR, HIPAA, PCI DSS, or industry-specific mandates, we provide the expertise and support you need to achieve and maintain compliance with confidence.
+                    5.	Regulatory Compliance and Due Diligence: In today`s regulatory environment, compliance with data protection and privacy regulations is non-negotiable. Our Third-Party Risk Management services help you navigate the complex landscape of regulatory requirements and due diligence processes, ensuring that your vendors meet the necessary security and compliance standards. Whether you need to comply with GDPR, HIPAA, PCI DSS, or industry-specific mandates, we provide the expertise and support you need to achieve and maintain compliance with confidence.
                     </p>
                     <br/>
                     

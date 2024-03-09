@@ -64,7 +64,7 @@ const ManageCyberServices = () => {
                     </p>
                     <br/>
                     <p>
-                    3.	24/7/365 Support and Guidance: Cybersecurity emergencies can happen at any time, day or night. That's why our Managed Services offer 24/7/365 support and guidance from our team of experienced cybersecurity professionals. Whether you have a question about a security alert, need assistance with security configuration, or require emergency incident response, we're here to help. With our responsive support services, you can count on us to be there whenever you need us, providing expert guidance and assistance to keep your business secure.
+                    3.	24/7/365 Support and Guidance: Cybersecurity emergencies can happen at any time, day or night. That`s why our Managed Services offer 24/7/365 support and guidance from our team of experienced cybersecurity professionals. Whether you have a question about a security alert, need assistance with security configuration, or require emergency incident response, we`re here to help. With our responsive support services, you can count on us to be there whenever you need us, providing expert guidance and assistance to keep your business secure.
                     </p>
                     <br/>
                     <p>
@@ -72,7 +72,7 @@ const ManageCyberServices = () => {
                     </p>
                     <br/>
                     <p>
-                    5.	Peace of Mind and Compliance Assurance: With Relate Central as your trusted cybersecurity partner, you can enjoy peace of mind knowing that your organization's security needs are being managed by industry experts. We help you navigate complex regulatory requirements and compliance standards, ensuring that your security practices align with relevant laws and regulations. Whether you need to comply with GDPR, HIPAA, PCI DSS, or industry-specific mandates, our Managed Services provide the assurance and support you need to achieve and maintain compliance.
+                    5.	Peace of Mind and Compliance Assurance: With Relate Central as your trusted cybersecurity partner, you can enjoy peace of mind knowing that your organization`s security needs are being managed by industry experts. We help you navigate complex regulatory requirements and compliance standards, ensuring that your security practices align with relevant laws and regulations. Whether you need to comply with GDPR, HIPAA, PCI DSS, or industry-specific mandates, our Managed Services provide the assurance and support you need to achieve and maintain compliance.
                     </p>
                     <br/>
                     

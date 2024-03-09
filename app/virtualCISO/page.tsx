@@ -59,7 +59,7 @@ const VirtualCISO = () => {
                   </p>
                     <br/>
                     <p>
-                    2.	Tailored Solutions for Your Business: We understand that every organization has unique cybersecurity needs and challenges. That's why we offer tailored vCISO solutions that are customized to your specific requirements and objectives. Whether you're a small startup or a large enterprise, we work closely with you to understand your business goals, risk tolerance, and compliance requirements to develop a vCISO strategy that aligns with your needs. Our flexible approach ensures that you get the support and guidance you need to enhance your cybersecurity posture effectively.
+                    2.	Tailored Solutions for Your Business: We understand that every organization has unique cybersecurity needs and challenges. That`s why we offer tailored vCISO solutions that are customized to your specific requirements and objectives. Whether you`re a small startup or a large enterprise, we work closely with you to understand your business goals, risk tolerance, and compliance requirements to develop a vCISO strategy that aligns with your needs. Our flexible approach ensures that you get the support and guidance you need to enhance your cybersecurity posture effectively.
                     </p>
                     <br/>
                     <p>
@@ -71,7 +71,7 @@ const VirtualCISO = () => {
                     </p>
                     <br/>
                     <p>
-                    5.	Trusted Advisor and Partner: At Relate Central, we believe in building long-term partnerships with our clients based on trust, integrity, and mutual success. Our vCISOs act as trusted advisors and partners, working collaboratively with your team to achieve your cybersecurity goals and objectives. Whether you need strategic guidance, tactical support, or hands-on assistance with cybersecurity initiatives, our vCISOs are dedicated to providing you with the expertise, insights, and support you need to succeed. With Relate Central as your vCISO partner, you can trust that you're working with a reliable partner committed to helping you achieve your cybersecurity goals.
+                    5.	Trusted Advisor and Partner: At Relate Central, we believe in building long-term partnerships with our clients based on trust, integrity, and mutual success. Our vCISOs act as trusted advisors and partners, working collaboratively with your team to achieve your cybersecurity goals and objectives. Whether you need strategic guidance, tactical support, or hands-on assistance with cybersecurity initiatives, our vCISOs are dedicated to providing you with the expertise, insights, and support you need to succeed. With Relate Central as your vCISO partner, you can trust that you`re working with a reliable partner committed to helping you achieve your cybersecurity goals.
                     </p>
                     <br/>
                     

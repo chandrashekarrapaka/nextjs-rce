@@ -55,15 +55,15 @@ const PenetrationTesting = () => {
                   </h3>
                   <p className="mb-10 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
                   <p>
-                  1.	Expertise and Experience: Our team of cybersecurity professionals brings extensive expertise and experience to every penetration testing engagement. With years of hands-on experience in ethical hacking, vulnerability assessment, and security testing, we have the knowledge and skills to uncover even the most complex security vulnerabilities. Whether you're looking to assess the security of your network, web applications, or mobile apps, you can trust Relate Central to deliver thorough and accurate penetration testing results.
+                  1.	Expertise and Experience: Our team of cybersecurity professionals brings extensive expertise and experience to every penetration testing engagement. With years of hands-on experience in ethical hacking, vulnerability assessment, and security testing, we have the knowledge and skills to uncover even the most complex security vulnerabilities. Whether you`re looking to assess the security of your network, web applications, or mobile apps, you can trust Relate Central to deliver thorough and accurate penetration testing results.
                   </p>
                     <br/>
                     <p>
-                    2.	Comprehensive Testing Methodologies: We utilize industry-leading testing methodologies and tools to conduct comprehensive penetration tests that provide a holistic view of your organization's security posture. From network penetration testing and web application testing to social engineering and wireless security testing, we cover all aspects of your IT infrastructure to identify vulnerabilities and weaknesses. Our rigorous testing methodologies ensure that no stone is left unturned, allowing you to address security issues before they can be exploited by cyber attackers.
+                    2.	Comprehensive Testing Methodologies: We utilize industry-leading testing methodologies and tools to conduct comprehensive penetration tests that provide a holistic view of your organization`s security posture. From network penetration testing and web application testing to social engineering and wireless security testing, we cover all aspects of your IT infrastructure to identify vulnerabilities and weaknesses. Our rigorous testing methodologies ensure that no stone is left unturned, allowing you to address security issues before they can be exploited by cyber attackers.
                      </p>
                     <br/>
                     <p>
-                    3.	Actionable Recommendations: Penetration testing is not just about identifying vulnerabilities; it's also about providing actionable recommendations for remediation. At Relate Central, we go beyond merely reporting vulnerabilities; we provide detailed insights and recommendations for mitigating risks and improving your security posture. Whether it's patching software vulnerabilities, updating configuration settings, or implementing additional security controls, we work with you to develop a roadmap for remediation that aligns with your business goals and priorities.
+                    3.	Actionable Recommendations: Penetration testing is not just about identifying vulnerabilities; it`s also about providing actionable recommendations for remediation. At Relate Central, we go beyond merely reporting vulnerabilities; we provide detailed insights and recommendations for mitigating risks and improving your security posture. Whether it`s patching software vulnerabilities, updating configuration settings, or implementing additional security controls, we work with you to develop a roadmap for remediation that aligns with your business goals and priorities.
                     </p>
                     <br/>
                     <p>
@@ -71,7 +71,7 @@ const PenetrationTesting = () => {
                     </p>
                     <br/>
                     <p>
-                    5.	Continuous Support and Guidance: Our commitment to your security doesn't end with the completion of a penetration test. We provide continuous support and guidance to help you address security issues, implement remediation measures, and improve your security posture over time. Whether you need assistance with prioritizing vulnerabilities, implementing security best practices, or developing a long-term security strategy, our team of cybersecurity experts is here to support you every step of the way.
+                    5.	Continuous Support and Guidance: Our commitment to your security doesn`t end with the completion of a penetration test. We provide continuous support and guidance to help you address security issues, implement remediation measures, and improve your security posture over time. Whether you need assistance with prioritizing vulnerabilities, implementing security best practices, or developing a long-term security strategy, our team of cybersecurity experts is here to support you every step of the way.
                     </p>
                     <br/>
                     
