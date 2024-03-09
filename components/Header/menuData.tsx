@@ -34,7 +34,7 @@ const menuData: Menu[] = [
       {
         id: 44,
         title: "24/7/365 Managed Services",
-        path: "/blog-sidebar",
+        path: "/manageCyberServices",
         newTab: false,
       },
       {
@@ -46,7 +46,7 @@ const menuData: Menu[] = [
       {
         id: 46,
         title: "Third-Party Risk Management",
-        path: "/signin",
+        path: "/thirdPartyRiskManagement",
         newTab: false,
       },
       {
